@@ -21,6 +21,6 @@ You can reach me on
 - linkedIn -https://www.linkedin.com/in/kaleab-shiferaw-14680b229
 - Email - kaleabshiferaw51@gmail.com
 - Telegram - @kalastrophic
-- twitter - @ShiferawKaleab
+- [twitter](https://img.shields.io/twitter/url?style=social&url=%40ShiferawKaleab) - @ShiferawKaleab 
 - instagram - @kaleab_shiferaw
 - phone - +251973142596 or +251923291692  
