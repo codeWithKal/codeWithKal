@@ -1,3 +1,4 @@
+![my pic_editted](https://user-images.githubusercontent.com/100060562/195410201-954557e4-fc47-40c9-8381-144603c0f86a.jpg)
 # Who is KALEAB SHIFERAW GIRMA (kalu_coder)?
 
    My name is kaleab Shiferaw Girma, an enthusiast fullstack developer and data scientist.
