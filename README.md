@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE!!!;)](https://git.io/typing-svg)
+ </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/100060562/226180782-d264a4bb-52bb-409a-841f-8412fa782292.jpg" width="50%" alt="Image">
 </div>
@@ -27,3 +29,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codeWithKal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THANK+YOU+FOR+VISITING;PLEASE+COME+BACK+FOR+ANY+UPDATES!!!;)](https://git.io/typing-svg)
+ </div>
