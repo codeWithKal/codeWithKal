@@ -1,26 +1,25 @@
 ![my pic_editted](https://user-images.githubusercontent.com/100060562/195410201-954557e4-fc47-40c9-8381-144603c0f86a.jpg)
-# Who is KALEAB SHIFERAW GIRMA (kalu_coder)?
+# 💫 About Me:
+🔭 I’m currently working on website develpment<br>👯 I’m looking o collaborate on freelancing<br>🤝 I’m looking for help with every one<br>🌱 I’m currently learning all <br>💬 Ask me about anything<br>⚡ Fun fact i like there
 
-   My name is kaleab Shiferaw Girma, an enthusiast fullstack developer and data scientist.
-## country of origin
-   I am from the land of human race origin [Ethiopia](https://en.wikipedia.org/wiki/Ethiopia)
-## Academic road
-I've passed through the following schools
-   - Jitu academy [kg -2]
-   - Almikas Kindergarten and primary school [3-6]
-   - Aleltu Primary School [7-8]
-   - Aleltu Secondary and Preparatory School [9-12]
-   - Addis Ababa University 
- I’m currently learning my Batchelor of Computer Science degree at Addis Ababa University. 
-## Hobbies
 
-I’m interested in new technological solutions to a Year's problems
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codeWithKal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeWithKal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithKal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Social Medias and Contacts
-You can reach me on 
-- linkedIn -https://www.linkedin.com/in/kaleab-shiferaw-14680b229
-- Email - kaleabshiferaw51@gmail.com
-- Telegram - @kalastrophic
-- [twitter](https://img.shields.io/twitter/url?style=social&url=%40ShiferawKaleab) - @ShiferawKaleab 
-- instagram - @kaleab_shiferaw
-- phone - +251973142596 or +251923291692  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codeWithKal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=codeWithKal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
