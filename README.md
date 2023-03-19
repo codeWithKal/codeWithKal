@@ -2,9 +2,30 @@
 <h1 align="center">Hi 👋, I'm Kaleab Shiferaw Girma</h1>
 <h3 align="center">A passionate and enthusiast full stack developer and UI/UX designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkal&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkal" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on website develpment<br>👯 I’m looking o collaborate on freelancing<br>🤝 I’m looking for help with every one<br>🌱 I’m currently learning all <br>💬 Ask me about anything<br>⚡ Fun fact i like there
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkal" alt="codewithkal" /></a> </p>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codeWithKal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeWithKal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithKal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codeWithKal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=codeWithKal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 🔭 I’m currently a 4th year computer science student **at Addis Ababa University**
 
