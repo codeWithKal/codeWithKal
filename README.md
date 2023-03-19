@@ -1,5 +1,4 @@
-
-![profile pic](https://user-images.githubusercontent.com/100060562/226179256-6e27c077-be3f-4d81-859f-da7a6cc63d25.jpg)
+![pic-photoaidcom-cropped](https://user-images.githubusercontent.com/100060562/226180782-d264a4bb-52bb-409a-841f-8412fa782292.jpg)
 
 <h1 align="center">Hi 👋, I'm Kaleab Shiferaw Girma</h1>
 <h3 align="center">A passionate and enthusiast full stack developer and UI/UX designer.</h3>
