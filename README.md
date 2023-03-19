@@ -1,7 +1,5 @@
 <p align="center">
-  <span style="color:black; font-weight:bold; font-size:40px;">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE!!!;)](https://git.io/typing-svg)
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE!!!&color=000000&center=true">
 </p>
 
 <div align="center">
