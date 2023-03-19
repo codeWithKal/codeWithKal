@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/100060562/226180782-d264a4bb-52bb-409a-841f-8412fa782292.jpg" width="50%" alt="Image">
 </div>
 <h1 align="center">Hi 👋, I'm Kaleab Shiferaw Girma</h1>
