@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE!!!&color=000000&center=true">
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/100060562/226180782-d264a4bb-52bb-409a-841f-8412fa782292.jpg" width="50%" alt="Image">
-</div>
 <h1 align="center">Hi 👋, I'm Kaleab Shiferaw Girma</h1>
 <h3 align="center">A passionate and enthusiast full stack developer and UI/UX designer, from Addis Ababa, Ethiopia.</h3>
 
